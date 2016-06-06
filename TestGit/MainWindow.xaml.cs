@@ -27,7 +27,7 @@ namespace TestGit
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            textBox.Text = "123";
+            textBox.Text = "456";
         }
     }
 }
