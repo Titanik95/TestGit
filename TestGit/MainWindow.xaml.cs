@@ -29,5 +29,10 @@ namespace TestGit
         {
             textBox.Text = "456";
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            textBox1.Text = "123";
+        }
     }
 }
